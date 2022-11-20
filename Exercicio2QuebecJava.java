@@ -35,6 +35,10 @@ class Exercicio2QuebecJava {
             System.out.println("O suspeito devia para a vítima? " + b4);
             System.out.println("O suspeito já trabalhou com a vítima? " + b5);
 
+            System.out.println("Teste");
+
+            System.out.println("Hello!");
+
         
         
         
